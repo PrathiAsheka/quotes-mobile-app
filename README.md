@@ -1,10 +1,10 @@
-# 📱 Quotes Collection Mobile App
+# Quotes Collection Mobile App
 
 A simple and user-friendly mobile application that allows users to add, categorize, and save their favorite quotes. This app helps users organize inspirational and meaningful quotes in one place.
 
 ---
 
-## 🚀 Features
+## Features
 - Add new quotes  
 - Categorize quotes  
 - Save favorite quotes  
@@ -13,20 +13,20 @@ A simple and user-friendly mobile application that allows users to add, categori
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - React Native (Expo)  
 - JavaScript  
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 - screens/ – App screens (Home, Add Quotes, Categories, Favorites, About)  
 - components/ – Reusable UI components  
 - assets/ – Images and icons  
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Install dependencies:
 npm install
@@ -40,17 +40,19 @@ npx expo start
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="250"/>
-  <img src="screenshots/add.png" width="250"/>
-  <img src="screenshots/favorites.png" width="250"/>
+  <img src="Screenshots/Home.jpeg" width="250"/>
+  <img src="Screenshots/AddQuotes.jpeg" width="250"/>
+  <img src="Screenshots/Favorites.jpeg" width="250"/>
+  <img src="Screenshots/Category.jpeg" width="250"/>
+  <img src="Screenshots/About.jpeg" width="250"/>
 </p>
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 - Search quotes feature  
 - Cloud storage integration  
 - User authentication  
@@ -58,6 +60,6 @@ npx expo start
 
 ---
 
-## 👩‍💻 Author
+## Author
 Prathibha Dissanayake  
 GitHub: https://github.com/PrathiAsheka
