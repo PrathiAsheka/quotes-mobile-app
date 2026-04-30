@@ -15,7 +15,7 @@ A simple and user-friendly mobile application that allows users to add, categori
 
 ## Technologies Used
 - React Native (Expo)  
-- JavaScript  
+- TypeScript  
 
 ---
 
