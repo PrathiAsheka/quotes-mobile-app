@@ -45,7 +45,7 @@ npx expo start
 <p align="center">
   <img src="Screenshots/Home.jpeg" width="250"/>
   <img src="Screenshots/AddQuotes.jpeg" width="250"/>
-  <img src="Screenshots/Favorites.jpeg" width="250"/>
+  <img src="Screenshots/Favourites.jpeg" width="250"/>
   <img src="Screenshots/Category.jpeg" width="250"/>
   <img src="Screenshots/About.jpeg" width="250"/>
 </p>
